@@ -2,8 +2,6 @@
 
 ## Microsoft Azure Administrator Collections - https://learn.microsoft.com/en-us/training/courses/az-104t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide
 
-## Learning Path 1:  Describe cloud concepts  - https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
-
 ### Module 01:  Adminster Identity
 Lesson 1: Configure Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/<br>
 Lesson 2: Configure user and group accounts - https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/<br>
