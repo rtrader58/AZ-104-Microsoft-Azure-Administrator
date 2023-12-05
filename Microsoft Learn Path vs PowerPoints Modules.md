@@ -8,15 +8,28 @@
 Lesson 1: Configure Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/<br>
 Lesson 2: Configure user and group accounts - https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/<br>
 
+### Lab
+LAB 01 - Manage Microsoft Entra ID Identities - ESTIMATED DURATION 30 MIN <br>
+
 ### Module 02:   Administer Governance and Compliance
 Lesson 1: Configure subscriptions - https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/<br>
 Lesson 2: Configure Azure Policy - https://learn.microsoft.com/en-us/training/modules/configure-azure-policy/<br>
 Lesson 3: Configure role-based access control - https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/<br>
 
+### Labs
+Lab 02a - Manage Subscriptions and RBAC  - ESTIMATED DURATION 30 MIN <br>
+Lab 02b - Manage Governance via Azure Policy - ESTIMATED DURATION 30 MIN <br>
+Lab 03a – Manage Azure resources in the portal - ESTIMATED DURATION 3020 MIN <br>
+
 ### Module 03 Administer Azure Resouces
 Lesson 1: Configure Azure resources with tools - https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/ <br>
 Lesson 2: Use Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/<br>
 Lesson 3: Configure resources with Azure Resource Manager templates - https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/ <br>
+
+### Labs
+Lab 03b - Manage Azure resources by Using ARM Templates  - ESTIMATED DURATION 20 MIN <br>
+Lab 03c - Manage Azure resources by Using Azure PowerShell (optional)  - ESTIMATED DURATION 20 MIN <br>
+Lab 03d - Manage Azure resources by Using Azure CLI (optional)  - ESTIMATED DURATION 20 MIN <br>
 
 ### Module 04 Administer Virtual Networks
 Lesson 1: Configure virtual networks - https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/<br>
