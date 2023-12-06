@@ -17,7 +17,6 @@ Lesson 3: Configure role-based access control - https://learn.microsoft.com/en-u
 ### Labs
 Lab 02a - Manage Subscriptions and RBAC ~ Time 30 Min <br>
 Lab 02b - Manage Governance via Azure Policy ~ Time 30 Min <br>
-Lab 03a – Manage Azure resources in the portal ~ Time 20 Min <br>
 
 ### Module 03 Administer Azure Resouces
 Lesson 1: Configure Azure resources with tools - https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/ <br>
@@ -25,6 +24,7 @@ Lesson 2: Use Azure Resource Manager - https://learn.microsoft.com/en-us/trainin
 Lesson 3: Configure resources with Azure Resource Manager templates - https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/ <br>
 
 ### Labs
+Lab 03a – Manage Azure resources in the portal ~ Time 20 Min <br>
 Lab 03b - Manage Azure resources by Using ARM Templates ~ Time 20 Min <br>
 Lab 03c - Manage Azure resources by Using Azure PowerShell (optional) ~ Time 20 Min <br>
 Lab 03d - Manage Azure resources by Using Azure CLI (optional) ~ Time 20 Min <br>
@@ -58,14 +58,26 @@ Lesson 3: Configure Storage Security - https://learn.microsoft.com/en-us/trainin
 Lesson 4: Configure Azure Files and Azure File Sync - https://learn.microsoft.com/en-us/training/modules/configure-azure-files-file-sync/<br>
 Lesson 5: Configure Azure Storage with tools - https://learn.microsoft.com/en-us/training/modules/configure-storage-tools/<br>
 
+### Labs
+Lab  07 – Manage Azure Storage ~ Time 40 Min
+
 ### Module 08:  Administer Azure Virtual Machines
 Lesson 1: Configure Virtual Machines - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/<br>
 Lesson 2: Configure Virtual Machine Availability - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/<br>
 
-### Modul e 09:  Administer PaaS Compute Options
+### Labs
+Lab 08 – Manage Virtual Machines ~ Time 90 Min<br>
+
+### Module 09:  Administer PaaS Compute Options
 Lesson 1:Configure Azure App Service Plans - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/<br>
 Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
 <br>
+
+### Labs
+Lab 09a – Implement Web Apps​~ Time 30 Min<br>
+Lab 09b – Implement Azure Container Instances​~ Time 20 Min<br>
+Lab 09c – Implement Azure Container Apps​~ Time 20 Min<br>
+
 ### Module 10:  Administer Data Protection
 Lesson 1: Configure File and Folder Backups - https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/<br>
 Lesson 2: Configure Virtual Machine Backups - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/<br>
