@@ -75,15 +75,21 @@ Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-
 
 ### Labs
 Lab 09a – Implement Web Apps​~ Time 30 Min<br>
-Lab 09b – Implement Azure Container Instances​~ Time 20 Min<br>
-Lab 09c – Implement Azure Container Apps​~ Time 20 Min<br>
+Lab 09b – Implement Azure Container Instances​ ~ Time 20 Min<br>
+Lab 09c – Implement Azure Container Apps ​~ Time 20 Min<br>
 
 ### Module 10:  Administer Data Protection
 Lesson 1: Configure File and Folder Backups - https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/<br>
 Lesson 2: Configure Virtual Machine Backups - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/<br>
+
+### Lab
+Lab 10 – Implement Data Protection​ ~ Time 50 Min<br>
 
 ### Module 11:  Administer Monitoring
 Lesson 1: Configure Azure Monitor - https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/<br>
 Lesson 2: Configure Azure Alerts - https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/<br>
 Lesson 3: Configure Log analytics - https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/<br>
 Lesson 4: Configure Network Watcher - https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/<br>
+
+### Lab
+Lab 11 – Implement monitoring​ ~ Time 45 Min<br>
