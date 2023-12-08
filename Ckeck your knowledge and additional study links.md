@@ -104,6 +104,17 @@ Run Docker containers with Azure Container Instances - https://learn.microsoft.c
 Implement Azure Container Apps - https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/  <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQkpEQ0VFUlZRUDM3Q1BCMDZVTEI5WjVORC4u&sharetoken=tbjUH7154spTWZnYjmrj  <br>
 
+## Module 10: Administer Data Protection
+
+Introduction to Azure Backup - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/  <br>
+Protect your virtual machines by using Azure Backup - https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/  <br>
+Implement hybrid backup and recovery with Windows Server IaaS - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-backup-recovery-windows-server-iaas/  <br>
+Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/  <br>
+Knowledge check _ https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNFEwTzhFUTdTUTZBWFdDWUVMRkxDWTVBTC4u&sharetoken=mYk00FZIuUtj2z7QzeEU&wdLOR=cD67ACE90-C2B7-4D71-9B7E-1F000829BE34  <br>
+
+
+
+
 
 
 
