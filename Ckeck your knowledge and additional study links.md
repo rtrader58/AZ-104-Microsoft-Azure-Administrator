@@ -49,4 +49,21 @@ Manage and control traffic flow in your Azure deployment with routes - https://l
 Introduction to Azure Private Link - https://learn.microsoft.com/en-us/training/modules/introduction-azure-private-link/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQVNHMlgwTVlJRUFaTThRMTlBWFI0OEdVSS4u&sharetoken=qJgpgzD82bgxMb7uu7Bf&wdLOR=cA90F021B-4D8D-4F08-B45D-4C2FF7466064 <br>
 
+## Module 06: Administer Network Traffic
+
+Improve application scalability and resiliency by using Azure Load Balancer - https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resiliency-with-load-balancer/ <br>
+Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ <br>
+Introduction to Azure Load Balancer - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-load-balancer/ <br>
+Introduction to Azure Application Gateway - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-application-gateway/ <br>
+Load balance your web service traffic with Application Gateway - https://learn.microsoft.com/en-us/training/modules/load-balance-web-traffic-with-application-gateway/ <br>
+Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ <br>
+Encrypt network traffic end to end with Azure Application Gateway - https://learn.microsoft.com/en-us/training/modules/end-to-end-encryption-with-app-gateway/ <br>
+Introduction to Azure Network Watcher - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/ <br>
+Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools - https://learn.microsoft.com/en-us/training/modules/troubleshoot-azure-network-infrastructure/ <br>
+Analyze your Azure infrastructure by using Azure Monitor logs - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/ <br>
+Monitor the performance of virtual machines using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
+Write your first query with Kusto Query Language - https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ <br>
+Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UN1VVTDREM0FOUDcxQTdZRlFOR1RCTzMxMS4u&sharetoken=blrWAZ4rnYRSz191Zgjh&wdLOR=cAAA24E7A-D106-4FDF-9BB8-39C184E5BD4A <br>
+
+
 
