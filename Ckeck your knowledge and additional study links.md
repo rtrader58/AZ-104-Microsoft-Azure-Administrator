@@ -40,7 +40,7 @@ Implement Windows Server IaaS VM IP addressing and routing - https://learn.micro
 Secure and isolate access to Azure resources by using network security groups and service endpoints - https://learn.microsoft.com/en-us/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/ <br>
 Host your domain on Azure DNS - https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/ <br>
 Implement DNS for Windows Server IaaS VMs - https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/ <br>
-Knowledge Check - https://forms.office.com/Pages/ShareFormPage.aspx? <br>id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNlJHTFhPTEswM1RCSk0zOTRYWEVOWlcxTi4u&sharetoken=tIfSV6qAYdMmJ5eTFryp&wdLOR=cF01027C5-913F-43C5-8E2D-8747B0612678 <br>
+Knowledge Check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNlJHTFhPTEswM1RCSk0zOTRYWEVOWlcxTi4u&sharetoken=tIfSV6qAYdMmJ5eTFryp&wdLOR=cF01027C5-913F-43C5-8E2D-8747B0612678 <br>
 
 
 
