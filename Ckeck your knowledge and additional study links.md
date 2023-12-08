@@ -81,6 +81,19 @@ Export large amounts of data from Azure by using Azure Import/Export - https://l
 Copy and move blobs from one container or storage account to another from the command line and in code - https://learn.microsoft.com/en-us/training/paths/copy-blobs-from-command-line-and-code/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQ1cyUldFSVJUOUdZM1Q3MEFFRU0wUjI4WC4u&sharetoken=dIqgHd2otBcqry6SBcJm  <br>
 
+## Module 08: Administer Azure Virtual Machines
+
+Introduction to Azure virtual machines - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/  <br>
+Choose the right disk storage for your virtual machine workload - https://learn.microsoft.com/en-us/training/modules/choose-the-right-disk-storage-for-vm-workload/  <br>
+Create a Linux virtual machine in Azure - https://learn.microsoft.com/en-us/training/paths/azure-linux/  <br>
+Create a Windows virtual machine in Azure - https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/  <br>
+Connect to virtual machines through the Azure portal by using Azure Bastion - https://learn.microsoft.com/en-us/training/modules/connect-vm-with-azure-bastion/  <br>
+Build a scalable application with virtual machine scale sets - https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets/  <br>
+Implement scale and high availability with Windows Server VM - https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/  <br>
+Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQ0dVV1Y1VzFZTzlMMUNXQlRaSUJWQTQxNC4u&sharetoken=Z37GWdASd35HecCvHOwD&wdLOR=cAC8A4812-2784-4689-9FB0-FE089C91A0FB  <br>
+
+
+
 
 
 
