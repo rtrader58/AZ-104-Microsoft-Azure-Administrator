@@ -10,7 +10,7 @@ Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 02:  Administer Governance and Compliance
 Introduction to analyzing costs and creating budgets with Azure Cost Management - https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/ <br>
-Plan and manage your Azure costs - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
+Plan and manage your Azure costs - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/ <br>
 Control and organize Azure resources with Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/ <br>
 Use Azure Resource manager - https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/ <br>
 Introduction to Azure Policy - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-policy/ <br>
