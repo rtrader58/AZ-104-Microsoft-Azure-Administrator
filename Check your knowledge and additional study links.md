@@ -4,13 +4,13 @@
 
 Allow users to reset their password with self-service password reset - https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/ <br>
 Implement and manage hybrid identity - https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/ <br>
-Create Azure users and groups in Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/
+Create Azure users and groups in Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/ <br>
 Manage users and groups - https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNlQyT1BLOTZYNjNBTk5NREk5NzFPOFpFWS4u&sharetoken=ms6pe4tvOByStLZxuG5B&wdLOR=cF86857FF-7E68-42CA-B255-DA42AE56590A <br>
 
 ## Module 02:  Administer Governance and Compliance
 Introduction to analyzing costs and creating budgets with Azure Cost Management - https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/ <br>
-Plan and manage your Azure costs - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
+Plan and manage your Azure costs - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/ <br>
 Control and organize Azure resources with Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/ <br>
 Use Azure Resource manager - https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/ <br>
 Introduction to Azure Policy - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-policy/ <br>
