@@ -112,6 +112,21 @@ Implement hybrid backup and recovery with Windows Server IaaS - https://learn.mi
 Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/  <br>
 Knowledge check _ https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNFEwTzhFUTdTUTZBWFdDWUVMRkxDWTVBTC4u&sharetoken=mYk00FZIuUtj2z7QzeEU&wdLOR=cD67ACE90-C2B7-4D71-9B7E-1F000829BE34  <br>
 
+## Module 11: Administer Monitoring
+
+Analyze your Azure infrastructure by using Azure Monitor logs - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/ <br>
+Monitor the performance of virtual machines using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
+Monitor, diagnose, and troubleshoot your Azure storage - https://learn.microsoft.com/en-us/training/modules/monitor-diagnose-and-troubleshoot-azure-storage/ <br>
+Improve incident response with alerting on Azure - https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/ <br>
+Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
+Manage alerts and incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>
+Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
+Write your first query with Kusto Query Language - https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ <br>
+Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UOFlRUEszMlRFTkpFT0E3Q1oxRjlQVk81MS4u&sharetoken=8yKD9q6v9z0tcrXy3tS5&wdLOR=c3820A896-48CD-46AD-BE50-F09068C1280F <br>
+
+
+
+
 
 
 
