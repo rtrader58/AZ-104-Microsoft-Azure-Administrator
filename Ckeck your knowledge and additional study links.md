@@ -92,6 +92,17 @@ Build a scalable application with virtual machine scale sets - https://learn.mic
 Implement scale and high availability with Windows Server VM - https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/  <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQ0dVV1Y1VzFZTzlMMUNXQlRaSUJWQTQxNC4u&sharetoken=Z37GWdASd35HecCvHOwD&wdLOR=cAC8A4812-2784-4689-9FB0-FE089C91A0FB  <br>
 
+## Module 09: Administer PaaS Compute Options
+
+Scale an App Service web app to efficiently meet demand with App Service scale up and scale out - https://learn.microsoft.com/en-us/training/modules/app-service-scale-up-scale-out/  <br>
+Host a web application with Azure App Service - https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/  <br>
+Stage a web app deployment for testing and rollback by using App Service deployment slots - https://learn.microsoft.com/en-us/training/modules/stage-deploy-app-service-deployment-slots/  <br>
+Dynamically meet changing web app performance requirements with autoscale rules - https://learn.microsoft.com/en-us/training/modules/app-service-autoscale-rules/  <br>
+Introduction to Docker containers - https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/  <br>
+Build a containerized web application with Docker - https://learn.microsoft.com/en-us/training/modules/intro-to-containers/  <br>
+Run Docker containers with Azure Container Instances - https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/  <br>
+Implement Azure Container Apps - https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/  <br>
+Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQkpEQ0VFUlZRUDM3Q1BCMDZVTEI5WjVORC4u&sharetoken=tbjUH7154spTWZnYjmrj  <br>
 
 
 
