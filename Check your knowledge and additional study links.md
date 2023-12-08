@@ -1,5 +1,9 @@
 # Check your knowledge and additional study links
 
+## Knowledge check questions
+
+### There is no answer guide for the knowledge check questions.
+
 ## Module 01: Administer Identity
 
 Allow users to reset their password with self-service password reset - https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/ <br>
