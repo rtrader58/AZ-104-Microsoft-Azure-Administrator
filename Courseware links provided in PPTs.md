@@ -1,4 +1,4 @@
-# Courseware links provided in the knowledge check on the instructor slide
+# Check your knowledge and additional study links
 
 ## Module 01: Administer Identity
 
@@ -31,5 +31,16 @@ Deploy Azure infrastructure by using JSON ARM templates - https://learn.microsof
 Introduction to infrastructure as code using Bicep - https://learn.microsoft.com/en-us/training/modules/introduction-to-infrastructure-as-code-using-bicep/ <br>
 Build your first Bicep template - https://learn.microsoft.com/en-us/training/modules/build-first-bicep-template/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UMkFRVjJFOFJPNjZQUEpROVY5M1VEWElRTi4u&sharetoken=yCwXM9qIBSS1d37SnduS&wdLOR=c1C689F9D-2CC5-45D1-93D5-D3C9A240C860 <br>
+
+## Module 04: Administer Virtual Networking
+
+Introduction to Azure Virtual Networks - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/ <br>
+Design an IP addressing schema for your Azure deployment - https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/ <br>
+Implement Windows Server IaaS VM IP addressing and routing - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/ <br>
+Secure and isolate access to Azure resources by using network security groups and service endpoints - https://learn.microsoft.com/en-us/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/ <br>
+Host your domain on Azure DNS - https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/ <br>
+Implement DNS for Windows Server IaaS VMs - https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/ <br>
+Knowledge Check - https://forms.office.com/Pages/ShareFormPage.aspx? <br>id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNlJHTFhPTEswM1RCSk0zOTRYWEVOWlcxTi4u&sharetoken=tIfSV6qAYdMmJ5eTFryp&wdLOR=cF01027C5-913F-43C5-8E2D-8747B0612678 <br>
+
 
 
