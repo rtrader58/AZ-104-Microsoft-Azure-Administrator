@@ -2,6 +2,8 @@
 
 ## Microsoft Azure Administrator Collections - https://learn.microsoft.com/en-us/training/courses/az-104t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide
 
+## Learning Path 1:  Manage identities and governance in Azure - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/
+
 ### Module 01:  Adminster Identity
 Lesson 1: Configure Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/<br>
 Lesson 2: Configure user and group accounts - https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/<br>
@@ -29,6 +31,8 @@ Lab 03b - Manage Azure resources by Using ARM Templates ~ Time 20 Min <br>
 Lab 03c - Manage Azure resources by Using Azure PowerShell (optional) ~ Time 20 Min <br>
 Lab 03d - Manage Azure resources by Using Azure CLI (optional) ~ Time 20 Min <br>
 
+## Learning Path 2:  Configure and manage virtual networks for Azure administrators - https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
+
 ### Module 04: Administer Virtual Networks
 Lesson 1: Configure virtual networks - https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/<br>
 Lesson 2: Configure network security groups - https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/<br>
@@ -51,6 +55,8 @@ Lesson 2: Configure Azure Application Gateway - https://learn.microsoft.com/en-u
 ### Lab
 Lab 06 – Implement traffic management ~ Time 60 Min <br>
 
+## Learning Path 3: Implement and manage storage in Azure - https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/ 
+
 ### Module 07:  Administer Azure Storage
 Lesson 1: Configure Storage Accounts - https://learn.microsoft.com/en-us/training/modules/configure-storage-accounts/<br>
 Lesson 2: Configure Blob Storage - https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/<br>
@@ -68,8 +74,10 @@ Lesson 2: Configure Virtual Machine Availability - https://learn.microsoft.com/e
 ### Labs
 Lab 08 – Manage Virtual Machines ~ Time 90 Min<br>
 
+## Learning Path 4:  Deploy and manage Azure compute resources -  https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
+
 ### Module 09:  Administer PaaS Compute Options
-Lesson 1:Configure Azure App Service Plans - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/<br>
+Lesson 1:  Configure Azure App Service Plans - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/<br>
 Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
 <br>
 
@@ -78,8 +86,10 @@ Lab 09a – Implement Web Apps​~ Time 30 Min<br>
 Lab 09b – Implement Azure Container Instances​ ~ Time 20 Min<br>
 Lab 09c – Implement Azure Container Apps ​~ Time 20 Min<br>
 
+## Learning Path 5:  Monitor and back up Azure resources - https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
+
 ### Module 10:  Administer Data Protection
-Lesson 1: Configure File and Folder Backups - https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/<br>
+Lesson 1: Introduction to Azure Backups - https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/<br>
 Lesson 2: Configure Virtual Machine Backups - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/<br>
 
 ### Lab
