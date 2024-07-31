@@ -17,8 +17,8 @@ Lesson 2: Configure Azure Policy - https://learn.microsoft.com/en-us/training/mo
 Lesson 3: Configure role-based access control - https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/<br>
 
 ### Labs
-Lab 02a - Manage Subscriptions and RBAC ~ Time 30 Min <br>
-Lab 02b - Manage Governance via Azure Policy ~ Time 30 Min <br>
+Lab 02 - Manage Subscriptions and RBAC ~ Time 30 Min <br>
+Lab 03 - Manage Governance via Azure Policy ~ Time 30 Min <br>
 
 ### Module 03 Administer Azure Resouces
 Lesson 1: Configure Azure resources with tools - https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/ <br>
