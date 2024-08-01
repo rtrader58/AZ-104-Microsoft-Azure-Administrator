@@ -112,6 +112,44 @@ Introduction to IP flow verify in Azure Network Watcher - https://docs.microsoft
 Use next hop to diagnose virtual machine routing problems - https://docs.microsoft.com/azure/network-watcher/network-watcher-next-hop-overview<br>
 View the topology of an Azure virtual network - https://docs.microsoft.com/azure/network-watcher/view-network-topology<br>
 
+## Learning Path 3: Implement and manage storage in Azure - https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/ 
+
+### Module 7:  Administer Azure Storage
+
+Introduction to the core Azure Storage services - https://docs.microsoft.com/azure/storage/common/storage-introduction?toc=%2fazure%2fstorage%2fblobs%2ftoc.json<br>
+Storage account overview - https://docs.microsoft.com/azure/storage/common/storage-account-overview<br>
+Create an Azure Storage account - https://docs.microsoft.com/azure/storage/common/storage-account-create<br>
+Upgrade to a general-purpose v2 storage account - https://docs.microsoft.com/azure/storage/common/storage-account-upgrade<br>
+Create an Azure Storage account  - https://docs.microsoft.com/learn/modules/create-azure-storage-account/<br>
+Secure access to your storage account - https://docs.microsoft.com/learn/modules/secure-azure-storage-account/<br>
+Configure Azure Storage firewalls and virtual networks - https://docs.microsoft.com/azure/storage/common/storage-network-security<br>
+Azure Blob Storage - https://azure.microsoft.com/services/storage/blobs/ <br>
+Manage blob containers using the Azure portal - https://learn.microsoft.com/azure/storage/blobs/blob-containers-portal<br>
+Configure anonymous public read access for containers and blobs - https://learn.microsoft.com/azure/storage/blobs/anonymous-read-access-configure?tabs=portal<br>
+Access tiers for blob data - - https://docs.microsoft.com/azure/storage/blobs/storage-blob-storage-tiers<br>
+Optimize storage performance and costs using Blob storage tiers - https://docs.microsoft.com/learn/modules/optimize-archive-costs-blob-storage<br>
+Store application data with Azure Blob storage - https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/<br>
+Object replication for blobs - https://docs.microsoft.com/azure/storage/blobs/object-replication-overviewDelegate access with a shared access signature - https://docs.microsoft.com/rest/api/storageservices/delegate-access-with-shared-access-signature<br>
+Grant limited access to Azure Storage resources using shared access signatures (SAS) - https://docs.microsoft.com/azure/storage/common/storage-sas-overview<br>
+Control access to Azure Storage with shared access signatures - https://docs.microsoft.com/learn/modules/control-access-to-azure-storage-with-sas/<br>
+Azure Storage encryption for data at rest - https://docs.microsoft.com/azure/storage/common/storage-service-encryption<br>
+What is Azure Files? - https://docs.microsoft.com/azure/storage/files/storage-files-introduction	<br>
+Use Azure Files with Linux - https://docs.microsoft.com/azure/storage/files/storage-how-to-use-files-linux <br>
+Create a persistent mount point for the Azure file share with /etc/fstab - https://docs.microsoft.com/azure/storage/files/storage-how-to-use-files-linux#create-a-persistent-mount-point-for-the-azure-file-share-with-etcfstab <br>
+Require secure transfer in Azure Storage - https://docs.microsoft.com/azure/storage/common/storage-require-secure-transfer <br>
+Overview of share snapshots for Azure Files - https://docs.microsoft.com/azure/storage/files/storage-snapshots-files<br>
+Get started with Storage Explorer - https://docs.microsoft.com/azure/vs-azure-tools-storage-manage-with-storage-explorer<br>
+Upload, download, and manage data with Azure Storage Explorer - https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
