@@ -17,8 +17,8 @@ Lesson 2: Configure Azure Policy - https://learn.microsoft.com/en-us/training/mo
 Lesson 3: Configure role-based access control - https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/<br>
 
 ### Labs
-Lab 02 - Manage Subscriptions and RBAC ~ Time 30 Min <br>
-Lab 03 - Manage Governance via Azure Policy ~ Time 30 Min <br>
+Lab 02a (Lab 2) - Manage Subscriptions and RBAC ~ Time 30 Min <br>
+Lab 02b (Lab 3)  - Manage Governance via Azure Policy ~ Time 30 Min <br>
 
 ### Module 03 Administer Azure Resouces
 Lesson 1: Configure Azure resources with tools - https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/ <br>
@@ -27,7 +27,7 @@ Lesson 3: Configure resources with Azure Resource Manager templates - https://le
 
 ### Labs
 
-Lab 04 - Manage Azure resources by Using ARM Templates ~ Time 20 Min <br>
+Lab 03 (Lab 4) - Manage Azure resources by Using ARM Templates ~ Time 20 Min <br>
 
 ## Learning Path 2:  Configure and manage virtual networks for Azure administrators - https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
 
@@ -37,21 +37,21 @@ Lesson 2: Configure network security groups - https://learn.microsoft.com/en-us/
 Lesson 3: Configure Azure DNS - https://learn.microsoft.com/en-us/training/modules/configure-azure-dns/<br>
 
 ### Lab
-Lab 04 – Implement Virtual Networking ~ Time 40 Min <br>
+Lab 04 (Lab 5) – Implement Virtual Networking ~ Time 40 Min <br>
 
 ### Module 05:  Administer Intersite Connectivity
 Lesson 1: Configure Azure Virtual Network peering - https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/<br>
 Lesson 2: Configure network routing and endpoints - https://learn.microsoft.com/en-us/training/modules/configure-network-routing-endpoints/<br>
 
 ### Lab
-Lab 05 – Implement intersite connectivity ~ Time 30 Min <br>
+Lab 05 (Lab 6) – Implement intersite connectivity ~ Time 30 Min <br>
 
 ### Module 06:  Administer Network Traffic Management 
 Lesson 1: Configure Azure Load Balancer - https://learn.microsoft.com/en-us/training/modules/configure-azure-load-balancer/<br>
 Lesson 2: Configure Azure Application Gateway - https://learn.microsoft.com/en-us/training/modules/configure-azure-application-gateway/<br>
 
 ### Lab
-Lab 06 – Implement traffic management ~ Time 60 Min <br>
+Lab 06 (Lab 7) – Implement traffic management ~ Time 60 Min <br>
 
 ## Learning Path 3: Implement and manage storage in Azure - https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/ 
 
@@ -63,14 +63,14 @@ Lesson 4: Configure Azure Files and Azure File Sync - https://learn.microsoft.co
 Lesson 5: Configure Azure Storage with tools - https://learn.microsoft.com/en-us/training/modules/configure-storage-tools/<br>
 
 ### Labs
-Lab  07 – Manage Azure Storage ~ Time 40 Min
+Lab  07 (Lab 8) – Manage Azure Storage ~ Time 40 Min
 
 ### Module 08:  Administer Azure Virtual Machines
 Lesson 1: Configure Virtual Machines - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/<br>
 Lesson 2: Configure Virtual Machine Availability - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/<br>
 
 ### Labs
-Lab 08 – Manage Virtual Machines ~ Time 90 Min<br>
+Lab 08 (Lab 9) – Manage Virtual Machines ~ Time 90 Min<br>
 
 ## Learning Path 4:  Deploy and manage Azure compute resources -  https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
 
@@ -80,9 +80,9 @@ Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-
 <br>
 
 ### Labs
-Lab 09a – Implement Web Apps​~ Time 30 Min<br>
-Lab 09b – Implement Azure Container Instances​ ~ Time 20 Min<br>
-Lab 09c – Implement Azure Container Apps ​~ Time 20 Min<br>
+Lab 09a (Lab 10) – Implement Web Apps​~ Time 30 Min<br>
+Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 20 Min<br>
+Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 20 Min<br>
 
 ## Learning Path 5:  Monitor and back up Azure resources - https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
@@ -91,7 +91,7 @@ Lesson 1: Introduction to Azure Backups - https://learn.microsoft.com/en-us/trai
 Lesson 2: Configure Virtual Machine Backups - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/<br>
 
 ### Lab
-Lab 10 – Implement Data Protection​ ~ Time 50 Min<br>
+Lab 10 (Lab 13)– Implement Data Protection​ ~ Time 50 Min<br>
 
 ### Module 11:  Administer Monitoring
 Lesson 1: Configure Azure Monitor - https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/<br>
@@ -100,4 +100,4 @@ Lesson 3: Configure Log analytics - https://learn.microsoft.com/en-us/training/m
 Lesson 4: Configure Network Watcher - https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/<br>
 
 ### Lab
-Lab 11 – Implement monitoring​ ~ Time 45 Min<br>
+Lab 11 (Lab 14) – Implement monitoring​ ~ Time 45 Min<br>
