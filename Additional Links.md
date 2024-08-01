@@ -74,7 +74,7 @@ Bicep playground - https://aka.ms/bicepdemo<br>
 
 ## Learning Path 2: Configure and manage virtual networks for Azure administrators
 
-### Module 4: AdministerVirtual Networking
+### Module 4: Administer Virtual Networking
 
 Azure Virtual Networks - https://azure.microsoft.com/services/virtual-network/ <br>
 What is Azure Virtual Network? - https://docs.microsoft.com/azure/virtual-network/virtual-networks-overview<br>
