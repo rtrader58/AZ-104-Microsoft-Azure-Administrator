@@ -65,15 +65,14 @@ Lesson 5: Configure Azure Storage with tools - https://learn.microsoft.com/en-us
 ### Labs
 Lab  07 (Lab 8) – Manage Azure Storage ~ Time 40 Min
 
+## Learning Path 4:  Deploy and manage Azure compute resources -  https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
+
 ### Module 08:  Administer Azure Virtual Machines
 Lesson 1: Configure Virtual Machines - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/<br>
 Lesson 2: Configure Virtual Machine Availability - https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-availability/<br>
 
 ### Labs
 Lab 08 (Lab 9) – Manage Virtual Machines ~ Time 90 Min<br>
-
-## Learning Path 4:  Deploy and manage Azure compute resources -  https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
-
 ### Module 09:  Administer PaaS Compute Options
 Lesson 1:  Configure Azure App Service Plans - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/<br>
 Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
