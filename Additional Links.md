@@ -104,7 +104,6 @@ Private Link Documentation - https://docs.microsoft.com/azure/private-link/<br>
 ### Module 6: Administer Network Traffic
 
 Here is the Load Balancing flow chart - https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview<br>
-Use the portal and the “Load Balancing – help me choose” page to review the options.  Application Gateway is Layer 7. Load Balancer is Layer 4<br>
 Load-balancing options - Azure Architecture Center | Microsoft Docs - https://docs.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview<br>
 Load balancer SKUs - https://docs.microsoft.com/azure/load-balancer/skus<br>
 Application Gateway configuration overview - https://docs.microsoft.com/azure/application-gateway/configuration-overview<br>
