@@ -1,4 +1,4 @@
-# AZ-104-Microsoft-Azure-Administrator - Additional links<br>
+# AZ-104 Microsoft Azure Administrator - Additional links
 
 ## Module 0
 
