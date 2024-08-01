@@ -101,7 +101,7 @@ Virtual network traffic routing - https://docs.microsoft.com/azure/virtual-netwo
 Virtual network service endpoints - https://docs.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview<br>
 Private Link Documentation - https://docs.microsoft.com/azure/private-link/<br>
 
-### Module 6: AdministerNetwork Traffic
+### Module 6: Administer Network Traffic
 
 Here is the Load Balancing flow chart - https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview<br>
 Use the portal and the “Load Balancing – help me choose” page to review the options.  Application Gateway is Layer 7. Load Balancer is Layer 4<br>
