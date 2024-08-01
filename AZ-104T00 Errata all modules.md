@@ -22,3 +22,15 @@ Step 9: Hint Select Role Assignments  <br>
 
 Task 3: Apply tagging via an Azure policy  <br>
 Step 3: The policy is called Require a tag and its value on resources  <br>
+
+### Lab 04 Lab 03b - Manage Azure resources by Using Azure Resource Manager Templates ~ Time 50 Min
+
+Task 2: Edit an Azure Resource Manager template and then redeploy the template  <br>
+Step 5: disks_az104_disk1_name should be lines 6 and 15 az104-disk1 should be line 6  <br>
+Step 9: Change disks_az104_disk1_name to disk_name should be line 5  <br>
+
+Task 3: Configure the Cloud Shell and deploy a template with PowerShell
+Step 10:  Line 6 is the disk name
+
+Task 5: Deploy a resource by using Azure Bicep
+Step 6: Replace diskname in line 2 with az104-disk5
