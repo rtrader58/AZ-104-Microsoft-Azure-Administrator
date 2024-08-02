@@ -1,5 +1,5 @@
 # AZ-104T00 Day One Errata - Learning Path 1: Manage identities and governance in Azure (~140 Minutes)
-## (Lab 01, Labe 02a, Lab 02b (3) and Lab 03 (04))
+## (Lab 01, Lab 02a, Lab 02b (3) and Lab 03 (04))
 
 Updated July 2024 <br>
  
