@@ -1,5 +1,8 @@
-# AZ-104T00 Day Two Errata - Configure and manage virtual networks for Azure administrators (~130 Minutes)
+# AZ-104T00 Day Two Errata - Learning Path 2:
+# Configure and manage virtual networks for Azure administrators (~130 Minutes)
 ## Lab 04 (5), Lab 05 (6) and Lab 06 (7) 
+
+Updated July 2024 <br>
 
 ### Lab 04 (Lab 5) – Implement Virtual Networking ~ Time 40 Min
 
