@@ -12,3 +12,13 @@ Select Edit parameters > Load the parameters.json you changed in the previous st
 No Errata <br>
 
 ### Lab 06 (Lab 7) – Implement traffic management ~ Time 60 Min
+
+Task 2: Configure an Azure Load Balancer <br>
+Add a rule to determine how incoming traffic is distributed <br>
+Step 5:  I had to refresh over 20 time to get it to switch - if you understand the concept move on <br>
+
+Task 3: Configure an Azure Application Gateway <br>
+Step 5: Click Add <br>
+Step 13: After configuring the step select review Review and Create <br>
+Step 14: In the Add a route rule page select Add multiple targets to create a path-based rule <br>
+

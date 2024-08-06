@@ -1,1 +1,1 @@
-# AZ-104T00 Day Three Errata - Configure and manage virtual networks for Azure administrators (~130 Minutes)
+# AZ-104T00 Day Three Errata - Implement and manage storage in Azure and  (~130 Minutes)

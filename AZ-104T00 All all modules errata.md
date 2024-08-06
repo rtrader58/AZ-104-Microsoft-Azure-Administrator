@@ -49,4 +49,18 @@ No Errata <br>
 
 ### Lab 06 (Lab 7) – Implement traffic management ~ Time 60 Min
 
+Task 2: Configure an Azure Load Balancer <br>
+Add a rule to determine how incoming traffic is distributed <br>
+Step 5:  I had to refresh over 20 time to get it to switch - if you understand the concept move on <br>
+
+Task 3: Configure an Azure Application Gateway <br>
+Step 5: Click Add <br>
+Step 13: After configuring the step select review Review and Create <br>
+Step 14: In the Add a route rule page select Add multiple targets to create a path-based rule <br>
+
+## Learning Path 3: Implement and manage storage in Azure
+
+### Lab 07 (Lab 8) – Manage Azure storage ~ Time 50 Min
+
+No Errata <br>
 
