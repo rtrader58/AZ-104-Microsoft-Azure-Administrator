@@ -19,7 +19,7 @@ Step 1: Select Use action groups <br>
 Step 4: Click review and create then Create to create the action group <br>
 
 Task 4: Trigger an alert and confirm it is working <br>
-It took 45 minutes before the alert email was recieved and created an alert in the Azure portal <br>
+It took 5 minutes before the alert email was recieved and created an alert in the Azure portal <br>
 
 Task 6: Use Azure Monitor log queries <br>
 Step 8:  There is an extra | in line 2, remove the first one <br>
