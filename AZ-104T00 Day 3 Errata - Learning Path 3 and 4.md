@@ -4,6 +4,8 @@
 ## Deploy and manage Azure compute resources (~130 Minutes)
 ### Lab 08 (9), Lab 09a (10), Lab 09b (11) and Lab 09c (11)
 
+Updated 6 Aug 2024 <br>
+
 ### Lab 07 (Lab 8) – Manage Azure storage ~ Time 50 Min
 
 No Errata <br>
@@ -31,4 +33,10 @@ Step 4: Add not Save
 
 No Errata <br>
 
+### Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 15 Min
 
+No Errata <br>
+
+### Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 15 Min
+
+No Errata <br>

@@ -87,8 +87,13 @@ Step 4: Add not Save <br>
 
 No Errata <br>
 
-### Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 20 Min
-### Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 20 Min
+### Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 15 Min
+
+No Errata <br>
+
+### Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 15 Min
+
+No Errata <br>
 
 ## Learning Path 5: Monitor and back up Azure resources
 
