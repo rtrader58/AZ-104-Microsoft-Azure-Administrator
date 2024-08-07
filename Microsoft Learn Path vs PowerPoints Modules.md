@@ -73,6 +73,7 @@ Lesson 2: Configure Virtual Machine Availability - https://learn.microsoft.com/e
 
 ### Labs
 Lab 08 (Lab 9) – Manage Virtual Machines ~ Time 90 Min<br>
+
 ### Module 09:  Administer PaaS Compute Options
 Lesson 1:  Configure Azure App Service Plans - https://learn.microsoft.com/en-us/training/modules/configure-app-service-plans/<br>
 Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
@@ -80,8 +81,8 @@ Lesson 2:  Configure Azure Container instances - https://learn.microsoft.com/en-
 
 ### Labs
 Lab 09a (Lab 10) – Implement Web Apps​~ Time 30 Min<br>
-Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 20 Min<br>
-Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 20 Min<br>
+Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 15 Min<br>
+Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 15 Min<br>
 
 ## Learning Path 5:  Monitor and back up Azure resources - https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 
