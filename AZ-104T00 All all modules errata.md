@@ -58,13 +58,13 @@ Step 5: Click Add <br>
 Step 13: After configuring the step select review Review and Create <br>
 Step 14: In the Add a route rule page select Add multiple targets to create a path-based rule <br>
 
-## Learning Path 3: Implement and manage storage in Azure
+## Learning Path 3: Implement and manage storage in Azure (~40 Min)
 
-### Lab 07 (Lab 8) – Manage Azure storage ~ Time 50 Min
+### Lab 07 (Lab 8) – Manage Azure storage ~ Time 40 Min
 
 No Errata <br>
 
-## Learning Path 4: Deploy and manage Azure compute resources
+## Learning Path 4: Deploy and manage Azure compute resources (~150 Min)
 
 ### Lab 08 (Lab 9) – Manage Virtual Machines ~ Time 90 Min
 
@@ -95,7 +95,24 @@ No Errata <br>
 
 No Errata <br>
 
-## Learning Path 5: Monitor and back up Azure resources
+## Learning Path 5: Monitor and back up Azure resources (~95 Min)
 
-### Lab 10 (Lab 13)– Implement Data Protection​ ~ Time 50 Min
+### Lab 10 (Lab 13)– Backup virtual machines​ ~ Time 50 Min
+
+Task 3: Configure Azure virtual machine-level backup <br>
+Step 8: After the deployment is complet click Go to resource <br>
+
+Task 4: Monitor Azure Backup <br>
+Step 6: Diagnostic setting is located under Monitoring <br>
+
 ### Lab 11 (Lab 14) – Implement monitoring​ ~ Time 45 Min
+
+Task 3: Configure action group notifications <br>
+Step 1: Select Use action groups <br>
+Step 4: Click review and create then Create to create the action group <br>
+
+Task 4: Trigger an alert and confirm it is working <br>
+It took 45 minutes before the alert email was recieved and created an alert in the Azure portal <br>
+
+Task 6: Use Azure Monitor log queries <br>
+Step 8:  There is an extra | in line 2, remove the first one <br>
