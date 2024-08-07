@@ -142,14 +142,68 @@ Overview of share snapshots for Azure Files - https://docs.microsoft.com/azure/s
 Get started with Storage Explorer - https://docs.microsoft.com/azure/vs-azure-tools-storage-manage-with-storage-explorer<br>
 Upload, download, and manage data with Azure Storage Explorer - https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/<br>
 
+## Learning Path 4: Deploy and manage Azure compute resources
+### Module 08: Administer Azure Virtual Machines
 
+Data residency - https://azure.microsoft.com/explore/global-infrastructure/data-residency/#select-geography<br>
+Azure VM sizes with no temporary disks - https://learn.microsoft.com/azure/virtual-machines/azure-vms-no-temp-disk<br>
+Availability set overview - https://learn.microsoft.com/azure/virtual-machines/availability-set-overview<br>
+What are virtual machine scale sets - https://learn.microsoft.com/azure/virtual-machine-scale-sets/overview<br>
+Autoscale - https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview<br>
 
+### Module 09: Administer PaaS Compute Options
 
+Azure App Service plan overview - https://docs.microsoft.com/azure/app-service/overview-hosting-plans<br>
+App Service pricing - https://azure.microsoft.com/pricing/details/app-service/windows/<br>
+Scale up an app in Azure App Service - https://docs.microsoft.com/azure/app-service/manage-scale-up<br>
+Get started with Autoscale in Azure - https://docs.microsoft.com/azure/azure-monitor/platform/autoscale-get-started?toc=/azure/app-service/toc.json<br>
+App Service - https://azure.microsoft.com/services/app-service/<br>
+Manage an App Service plan in Azure - https://docs.microsoft.com/azure/app-service/app-service-plan-manage<br>
+Set up staging environments - https://docs.microsoft.com/azure/app-service/web-sites-staged-publishing?toc=%2Fazure%2Fapp-service%2Ftoc.json#add-a-deployment-slot<br>
+Security recommendations for App Service - https://docs.microsoft.com/azure/app-service/security-recommendations<br>
+Back up your App in Azure - https://docs.microsoft.com/azure/app-service/web-sites-backup<br>
+Configure partial backups - https://docs.microsoft.com/azure/app-service/web-sites-backup<br>
+Containers vs. virtual machines - https://learn.microsoft.com/virtualization/windowscontainers/about/containers-vs-vm<br>
+Introduction to Container Registries in Azure - https://learn.microsoft.com/azure/container-registry/container-registry-intro<br>
+What is Azure Container Instances? - https://docs.microsoft.com/azure/container-instances/container-instances-overview<br>
+Quickstart: Deploy a container instance in Azure using the Azure portal - https://docs.microsoft.com/azure/container-instances/container-instances-quickstart-portal<br>
+Deploy microservices with Azure Container Apps - https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps<br>
+Azure Container Apps documentation - https://learn.microsoft.com/azure/container-apps/<br>
+Comparing Container Apps with other Azure container options - https://learn.microsoft.com/azure/container-apps/compare-options<br>
 
+## Learning Path 5: Monitor and back up Azure resources
+### Module 10: Administer Data Protection
 
+Why use Azure Backup? - https://docs.microsoft.com/azure/backup/backup-introduction-to-azure-backup#why-use-azure-backup <br>
+Backup Architecture - https://learn.microsoft.com/azure/backup/guidance-best-practices<br>
+Overview of Backup Center - https://docs.microsoft.com/azure/backup/backup-center-overview<br>
+An overview of Azure VM backup - https://docs.microsoft.com/azure/backup/backup-azure-vms-introduction<br>
+Create a snapshot - https://docs.microsoft.com/azure/virtual-machines/windows/snapshot-copy-managed-disk<br>
+Plan your VM backup infrastructure in Azure - https://docs.microsoft.com/azure/backup/backup-azure-vms-introduction <br>
+Tutorial: Back up and restore files for Windows virtual machines in Azure - https://docs.microsoft.com/azure/virtual-machines/windows/tutorial-backup-vms<br>
+Soft delete for virtual machines in Azure Backup - https://azure.microsoft.com/updates/soft-delete-virtual-machine-backup/<br>
+Azure Site Recovery documentation - https://docs.microsoft.com/azure/site-recovery/<br>
 
+### Module 11: Administer Monitoring
 
-
+What is Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/overview<br>
+Sources of monitoring data for Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/platform/data-sources<br>
+Metrics - https://docs.microsoft.com/azure/azure-monitor/platform/data-platform-metrics<br>
+Logs - https://docs.microsoft.com/azure/azure-monitor/platform/data-platform-logs<br>
+Azure Activity log - https://docs.microsoft.com/azure/azure-monitor/platform/activity-log<br>
+Send Azure Activity log to Log Analytics workspace using Azure portal - https://docs.microsoft.com/azure/azure-monitor/learn/quick-collect-activity-log-portal<br>
+Query the Activity Log in the Azure portal - https://docs.microsoft.com/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs#query-the-activity-log-in-the-azure-portal<br>
+The new alerts experience in Azure Monitor - https://docs.microsoft.com/azure/monitoring-and-diagnostics/monitoring-overview-unified-alerts <br>
+Respond to events with Azure Monitor Alerts - https://docs.microsoft.com/azure/azure-monitor/learn/tutorial-response<br>
+Create, view, and manage metric alerts using Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/platform/alerts-metric<br>
+Recommended out-of-the-box alert rules - https://learn.microsoft.com/azure/azure-monitor/alerts/alerts-manage-alert-rules#enable-recommended-alert-rules-in-the-azure-portal<br>
+Create and manage action groups in the Azure portal - https://docs.microsoft.com/azure/azure-monitor/platform/action-groups<br>
+Overview of Azure Monitor agents - https://docs.microsoft.com/azure/azure-monitor/platform/agents-overview<br>
+Create a Log Analytics workspace in the Azure portal -https://docs.microsoft.com/azure/azure-monitor/learn/quick-create-workspace <br>
+Overview of log queries in Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/log-query/log-query-overview<br>
+Get started with log queries in Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/log-query/get-started-queries<br>
+Azure Monitor log queries - https://docs.microsoft.com/azure/azure-monitor/log-query/query-language<br>
+Azure Monitor log query examples - https://docs.microsoft.com/azure/azure-monitor/log-query/examples<br>
 
 
 
