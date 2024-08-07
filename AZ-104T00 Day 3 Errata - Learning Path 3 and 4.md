@@ -1,4 +1,6 @@
 # AZ-104T00 Day Three Errata - Learning Path 3 and Learning Path 4 (Total lab time ~190 Min): 
+# Implement and manage storage in Azure (~40 Minutes)
+# Deploy and manage Azure compute resources (~150 Min)
 ### Lab 07 (8), Lab 08 (9), Lab 09a (10), Lab 09b (11) and Lab 09c (11)
 
 Updated Aug 2024 <br>
@@ -8,7 +10,7 @@ Updated Aug 2024 <br>
 
 No Errata <br>
 
-## Learning Path 4: Deploy and manage Azure compute resources
+## Learning Path 4: Deploy and manage Azure compute resources (~150 Min)
 ### Lab 08 (9) Manage Virtual Machines - Time ~90 Min
 
 Task 2: Manage compute and storage scaling for virtual machines <br>
