@@ -64,3 +64,33 @@ Step 14: In the Add a route rule page select Add multiple targets to create a pa
 
 No Errata <br>
 
+## Learning Path 4: Deploy and manage Azure compute resources
+
+### Lab 08 (Lab 9) – Manage Virtual Machines ~ Time 90 Min
+
+Task 2: Manage compute and storage scaling for virtual machines <br>
+Step 2:  Took ~15 minutes to complete  <br>
+Task 2: Manage compute and storage scaling for virtual machines <br>
+
+Task 3: Create and configure Azure Virtual Machine Scale Sets <br>
+Step Delete the existing V-Net <br>
+
+Task 4: Scale Azure Virtual Machine Scale Sets <br>
+Scale out rule <br>
+Step 1: Add a rule is in the yellow highlighted area <br>
+Step 3: Add not Save <br>
+
+Scale in rule <br>
+Step 4: Add not Save <br>
+
+### Lab 09a (Lab 10) – Implement Web Apps​ ~ Time 30 Min
+
+No Errata <br>
+
+### Lab 09b (Lab 11) – Implement Azure Container Instances​ ~ Time 20 Min
+### Lab 09c (Lab 12) – Implement Azure Container Apps ​~ Time 20 Min
+
+## Learning Path 5: Monitor and back up Azure resources
+
+### Lab 10 (Lab 13)– Implement Data Protection​ ~ Time 50 Min
+### Lab 11 (Lab 14) – Implement monitoring​ ~ Time 45 Min
