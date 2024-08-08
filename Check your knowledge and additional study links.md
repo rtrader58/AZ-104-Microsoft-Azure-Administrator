@@ -2,7 +2,7 @@
 
 ## Knowledge check questions
 
-### There is no answer key for the knowledge check questions.
+### The instructor will show you how to view the correct answer to the Knowledge check questions
 
 ## Module 01: Administer Identity
 
