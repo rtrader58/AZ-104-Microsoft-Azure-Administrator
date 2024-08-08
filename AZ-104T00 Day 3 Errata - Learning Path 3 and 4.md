@@ -14,21 +14,21 @@ No Errata <br>
 ### Lab 08 (9) Manage Virtual Machines - Time ~90 Min
 
 Task 2: Manage compute and storage scaling for virtual machines <br>
-Step 2: Took ~15 minutes to complete 
+Step 2: Took ~15 minutes to complete  <br>
 
-Task 2: Manage compute and storage scaling for virtual machines
-Step 9: Save not Apply
+Task 2: Manage compute and storage scaling for virtual machines <br>
+Step 9: Save not Apply <br>
 
-Task 3: Create and configure Azure Virtual Machine Scale Sets
-Delete the existing V-Net
+Task 3: Create and configure Azure Virtual Machine Scale Sets <br>
+Delete the existing V-Net <br>
 
-Task 4: Scale Azure Virtual Machine Scale Sets
-Scale out rule
-Step 1: Add a rule is in the yellow highlighted area
-Step 3: Add not Save
+Task 4: Scale Azure Virtual Machine Scale Sets <br>
+Scale out rule <br>
+Step 1: Add a rule is in the yellow highlighted area <br>
+Step 3: Add not Save <br>
 
-Scale in rule
-Step 4: Add not Save
+Scale in rule <br>
+Step 4: Add not Save <br>
 
 ### Lab 09a (Lab 10) – Implement Web Apps​ ~ Time 30 Min
 
