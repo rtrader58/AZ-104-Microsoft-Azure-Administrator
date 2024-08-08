@@ -1,7 +1,7 @@
 # AZ-104T00 Day Four Errata - Learning Path 5:
-# Configure and manage virtual networks for Azure administrators (~95 Minutes)
+# Configure and manage virtual networks for Azure administrators
 ### Labs 10 (13) and Lab 11 (14)
-
+### (Total lab time ~95 Minutes)
 Updated Aug 2024 <br>
 
 ### Lab 10 (Lab 13)– Backup virtual machines​ ~ Time 50 Min
