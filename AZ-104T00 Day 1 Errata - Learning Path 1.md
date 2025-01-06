@@ -3,9 +3,12 @@
 ### Lab 01, Lab 02a (2), Lab 02b (3) and Lab 03 (04)
 ### (Total lab time ~140 Minutes)
 
-Updated July 2024 <br>
+Updated Jan 2025 <br>
  
 ### LAB 01 - Manage Microsoft Entra ID Identities ~ Time 30 Min
+
+Create Tenant  <br>
+Will requie use of an Authenticator App  <br>
 
 Task 1: Create and configure user accounts  <br>
 Step 5: Stay in the First AAD Tenant you created in the previous exercise  <br>
@@ -16,13 +19,14 @@ Step 2: Copy the User Prinicipal Name and the password to notepad  <br>
 ### Lab 02a (Lab 2) - Manage Subscriptions and RBAC ~ Time 30 Min
 
 Task 2: Review and assign a built-in Azure role  <br>
-Step 7: Select Help Desk Supprot person  <br>
+Step 7: Search for and Select Help Desk Support person  <br>
 Step 9: Hint Select Role Assignments  <br>
 
 ### Lab 02b (Lab 3) - Manage Governance via Azure Policy ~ Time 30 Min
 
 Task 3: Apply tagging via an Azure policy  <br>
 Step 3: The policy is called Require a tag and its value on resources  <br>
+Wait for the deployment to complete <br>
 
 ### Lab 03 (Lab 4) - Manage Azure resources by Using Azure Resource Manager Templates ~ Time 50 Min
 
