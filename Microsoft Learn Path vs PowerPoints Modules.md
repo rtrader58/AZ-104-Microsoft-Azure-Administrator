@@ -27,7 +27,7 @@ Lesson 3: Configure resources with Azure Resource Manager templates - https://le
 
 ### Labs
 
-Lab 03 (Lab 4) - Manage Azure resources by Using ARM Templates ~ Time 20 Min <br>
+Lab 03 (Lab 4) - Manage Azure resources by Using ARM Templates ~ Time 50 Min <br>
 
 ## Learning Path 2:  Configure and manage virtual networks for Azure administrators - https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
 
