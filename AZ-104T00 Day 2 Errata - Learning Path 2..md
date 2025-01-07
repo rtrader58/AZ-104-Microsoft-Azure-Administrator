@@ -1,21 +1,33 @@
 # AZ-104T00 Day Two Errata - Learning Path 2:
 # Configure and manage virtual networks for Azure administrators
-### Lab 04 (5), Lab 05 (6) and Lab 06 (7) 
+### Lab 05, Lab 06 and Lab 07 
 ### (Total lab time ~130 Minutes)
 
-Updated July 2024 <br>
+Updated Jan 2025 <br>
 
-### Lab 04 (Lab 5) – Implement Virtual Networking ~ Time 40 Min
+### Lab 05 – Implement Virtual Networking ~ Time 40 Min
 
 Task 2: Create a virtual network and subnets using a template > Deploy the custom template <br>
 After step 3 add the following <br>
 Select Edit parameters > Load the parameters.json you changed in the previous steps > Click Save <br>
+You may have to select the Resource group from the dropdown if not auto populated <br>
 
-### Lab 05 (Lab 6) – Implement intersite connectivity ~ Time 30 Min
+Task 4: Configure public and private Azure DNS zones <br>
+
+Configure a public DNS zone <br>
+Step 3: Add your initials after contoso <br>
+Step 7: Record sets > Click + Add  <br>
+Step 1: After step 7 select OK  <br>
+Step 2 and 3 do not work as DNS has not been totally configured yet  <br>
+
+Configure a private DNS zone  <br>
+Step 7: Click + Add  <br>
+
+### Lab 06 – Implement intersite connectivity ~ Time 30 Min
 
 No Errata <br>
 
-### Lab 06 (Lab 7) – Implement traffic management ~ Time 60 Min
+### Lab 07 – Implement traffic management ~ Time 60 Min
 
 Task 2: Configure an Azure Load Balancer <br>
 Add a rule to determine how incoming traffic is distributed <br>
