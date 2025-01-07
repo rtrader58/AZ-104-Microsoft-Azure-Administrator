@@ -1,7 +1,10 @@
 # AZ-104T00 All Learning Paths Errata
 
-Updated Jan 2025 <br>
- 
+# AZ-104T00 Day One Errata - Learning Path 1: 
+# Manage identities and governance in Azure
+### Labs 01, Lab 02 (Lab 02a), Lab 03 (Lab 02b) and Lab 04
+### (Total lab time ~140 Minutes)Updated Jan 2025 <br>
+
 ### LAB 01 - Manage Microsoft Entra ID Identities ~ Time 30 Min
 
 Create Tenant  <br>
@@ -19,7 +22,7 @@ Task 2: Review and assign a built-in Azure role  <br>
 Step 7: Search for and Select Help Desk Support person  <br>
 Step 9: Hint Select Role Assignments  <br>
 
-### Lab 0b (Lab 02b) - Manage Governance via Azure Policy ~ Time 30 Min
+### Lab 03 (Lab 02b) - Manage Governance via Azure Policy ~ Time 30 Min
 
 Task 3: Apply tagging via an Azure policy  <br>
 Step 3: The policy is called Require a tag and its value on resources  <br>
