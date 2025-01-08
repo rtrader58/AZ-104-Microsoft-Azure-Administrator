@@ -18,7 +18,6 @@ Configure a public DNS zone <br>
 Step 3: Add your initials after contoso <br>
 Step 7: Record sets > Click + Add  <br>
 Step 1: After step 7 select OK  <br>
-Step 2 and 3 do not work as DNS has not been totally configured yet  <br>
 
 Configure a private DNS zone  <br>
 Step 7: Click + Add  <br>
@@ -35,6 +34,5 @@ Step 5:  I had to refresh over 20 time to get it to switch - if you understand t
 
 Task 3: Configure an Azure Application Gateway <br>
 Step 5: Click Add <br>
-Step 13: After configuring the step select review Review and Create <br>
 Step 14: In the Add a route rule page select Add multiple targets to create a path-based rule <br>
 
