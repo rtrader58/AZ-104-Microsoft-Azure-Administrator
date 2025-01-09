@@ -4,7 +4,7 @@
 ### (Total lab time ~95 Minutes)
 Updated Aug 2024 <br>
 
-### Lab 10 (Lab 13)– Backup virtual machines​ ~ Time 50 Min
+### Lab 13– Backup virtual machines​ ~ Time 50 Min
 
 Task 3: Configure Azure virtual machine-level backup <br>
 Step 8: After the deployment is complet click Go to resource <br>
@@ -12,7 +12,7 @@ Step 8: After the deployment is complet click Go to resource <br>
 Task 4: Monitor Azure Backup <br>
 Step 6: Diagnostic setting is located under Monitoring <br>
 
-### Lab 11 (Lab 14) – Implement monitoring​ ~ Time 45 Min
+### Lab 14 – Implement monitoring​ ~ Time 45 Min
 
 Task 3: Configure action group notifications <br>
 Step 1: Select Use action groups <br>
