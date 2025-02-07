@@ -71,6 +71,7 @@ Build a cloud governance strategy on Azure - https://learn.microsoft.com/en-us/t
 Create custom roles for Azure resources with Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/create-custom-azure-roles-with-rbac/ <br>
 Manage access to an Azure subscription by using Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/manage-subscription-access-azure-rbac/ <br>
 Secure your Azure resources with Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/ <br>
+
 ### Module 3: Administer Azure Resources
 
 Azure Portal Overview - https://docs.microsoft.com/azure/azure-portal/azure-portal-overview<br>
@@ -84,6 +85,14 @@ Understand the structure and syntax of ARM templates - https://docs.microsoft.co
 Parameters in Azure Resource Manager templates - https://docs.microsoft.com/azure/azure-resource-manager/templates/template-parameters<br>
 What is Bicep? - https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep<br>
 Bicep playground - https://aka.ms/bicepdemo<br>
+Manage services with the Azure portal - https://learn.microsoft.com/en-us/training/modules/tour-azure-portal/ <br>
+Introduction to PowerShell - https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/ <br>
+Control Azure services with the CLI - https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/ <br>
+Control and organize Azure resources with Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/ <br>
+Create Azure resources using Azure Resource Manager templates - https://learn.microsoft.com/en-us/training/modules/create-azure-resources-using-azure-resource-manager-templates/ <br>
+Deploy Azure infrastructure by using JSON ARM templates - https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/ <br>
+Introduction to infrastructure as code using Bicep - https://learn.microsoft.com/en-us/training/modules/introduction-to-infrastructure-as-code-using-bicep/ <br>
+Build your first Bicep template - https://learn.microsoft.com/en-us/training/modules/build-first-bicep-template/ <br>
 
 ## Learning Path 2: Configure and manage virtual networks for Azure administrators
 
@@ -102,6 +111,7 @@ Application Security Groups - https://docs.microsoft.com/azure/virtual-network/a
 What is Azure DNS? - https://docs.microsoft.com/azure/dns/dns-overview<br>
 DNS Zones - https://docs.microsoft.com/azure/dns/dns-zones-records#dns-zones<br> 
 QuickStart: Create an Azure private DNS zone using the Azure portal - https://docs.microsoft.com/azure/dns/private-dns-getstarted-portal<br>
+
 
 ### Module 5: Administer Intersite Connectivity
 
