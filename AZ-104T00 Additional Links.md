@@ -62,7 +62,15 @@ List role definitions in Azure RBAC - https://docs.microsoft.com/azure/role-base
 Create custom roles for Azure resources with role-based access control - https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/<br>
 Add or remove role assignments using Azure RBAC and the Azure portal - https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal<br>
 Explain that the role assignment completes the process of implementing RBAC and combining service principals, a role definition, and a scope<br>
-
+Introduction to analyzing costs and creating budgets with Azure Cost Management - https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/ <br>
+Plan and manage your Azure costs - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/ <br>
+Control and organize Azure resources with Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/ <br>
+Use Azure Resource manager - https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/ <br>
+Introduction to Azure Policy - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-policy/ <br>
+Build a cloud governance strategy on Azure - https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/ <br>
+Create custom roles for Azure resources with Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/create-custom-azure-roles-with-rbac/ <br>
+Manage access to an Azure subscription by using Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/manage-subscription-access-azure-rbac/ <br>
+Secure your Azure resources with Azure role-based access control - https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/ <br>
 ### Module 3: Administer Azure Resources
 
 Azure Portal Overview - https://docs.microsoft.com/azure/azure-portal/azure-portal-overview<br>
