@@ -30,18 +30,6 @@ Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 07: Administer Azure Storage
 
-Create an Azure Storage account - https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/ <br>
-Provide disaster recovery by replicating storage data across regions and failing over to a secondary location - https://learn.microsoft.com/en-us/training/modules/provide-disaster-recovery-replicate-storage-data/ <br>
-Optimize storage performance and costs using Azure Blob storage tiers = https://learn.microsoft.com/en-us/training/modules/optimize-archive-costs-blob-storage/ <br>
-Gather metrics from your Azure Blob Storage containers - https://learn.microsoft.com/en-us/training/modules/gather-metrics-blob-storage/ <br>
-Secure your Azure Storage account - https://learn.microsoft.com/en-us/training/modules/secure-azure-storage-account/ <br>
-Control access to Azure Storage with shared access signatures - https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-storage-with-sas/ <br>
-Implement storage security - https://learn.microsoft.com/en-us/training/modules/storage-security/ <br>
-Extend your on-premises file share capacity using Azure File Sync - https://learn.microsoft.com/en-us/training/modules/extend-share-capacity-with-azure-file-sync/ <br>
-Implement a hybrid file server infrastructure - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/ <br>
-Upload, download, and manage data with Azure Storage Explorer - https://learn.microsoft.com/en-us/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/ <br>
-Export large amounts of data from Azure by using Azure Import/Export - https://learn.microsoft.com/en-us/training/modules/export-data-with-azure-import-export/ <br>
-Copy and move blobs from one container or storage account to another from the command line and in code - https://learn.microsoft.com/en-us/training/paths/copy-blobs-from-command-line-and-code/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQ1cyUldFSVJUOUdZM1Q3MEFFRU0wUjI4WC4u&sharetoken=dIqgHd2otBcqry6SBcJm  <br>
 
 ## Module 08: Administer Azure Virtual Machines
