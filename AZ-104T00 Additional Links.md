@@ -128,6 +128,9 @@ System routes - https://docs.microsoft.com/azure/virtual-network/virtual-network
 Virtual network traffic routing - https://docs.microsoft.com/azure/virtual-network/virtual-networks-udr-overview<br>
 Virtual network service endpoints - https://docs.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview<br>
 Private Link Documentation - https://docs.microsoft.com/azure/private-link/<br>
+Distribute your services across Azure virtual networks and integrate them by using virtual network peering - https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/ <br>
+Manage and control traffic flow in your Azure deployment with routes - https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/ <br>
+Introduction to Azure Private Link - https://learn.microsoft.com/en-us/training/modules/introduction-azure-private-link/ <br>
 
 ### Module 6: Administer Network Traffic
 
