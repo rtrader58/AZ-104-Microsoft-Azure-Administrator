@@ -142,7 +142,18 @@ QuickStart: Direct web traffic with Azure Application Gateway - Azure portal - h
 Introduction to IP flow verify in Azure Network Watcher - https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview<br>
 Use next hop to diagnose virtual machine routing problems - https://docs.microsoft.com/azure/network-watcher/network-watcher-next-hop-overview<br>
 View the topology of an Azure virtual network - https://docs.microsoft.com/azure/network-watcher/view-network-topology<br>
-
+Improve application scalability and resiliency by using Azure Load Balancer - https://learn.microsoft.com/en-us/training/modules/improve-app-scalability-resiliency-with-load-balancer/ <br>
+Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ <br>
+Introduction to Azure Load Balancer - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-load-balancer/ <br>
+Introduction to Azure Application Gateway - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-application-gateway/ <br>
+Load balance your web service traffic with Application Gateway - https://learn.microsoft.com/en-us/training/modules/load-balance-web-traffic-with-application-gateway/ <br>
+Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ <br>
+Encrypt network traffic end to end with Azure Application Gateway - https://learn.microsoft.com/en-us/training/modules/end-to-end-encryption-with-app-gateway/ <br>
+Introduction to Azure Network Watcher - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/ <br>
+Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools - https://learn.microsoft.com/en-us/training/modules/troubleshoot-azure-network-infrastructure/ <br>
+Analyze your Azure infrastructure by using Azure Monitor logs - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/ <br>
+Monitor the performance of virtual machines using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
+Write your first query with Kusto Query Language - https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ <br>
 ## Learning Path 3: Implement and manage storage in Azure - https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/ 
 
 ### Module 7:  Administer Azure Storage
