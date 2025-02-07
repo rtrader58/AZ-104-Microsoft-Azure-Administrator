@@ -21,7 +21,6 @@ Knowledge Check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 05:  Administer Intersite Connectivity
 
-
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQVNHMlgwTVlJRUFaTThRMTlBWFI0OEdVSS4u&sharetoken=qJgpgzD82bgxMb7uu7Bf&wdLOR=cA90F021B-4D8D-4F08-B45D-4C2FF7466064 <br>
 
 ## Module 06: Administer Network Traffic
@@ -34,45 +33,18 @@ Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 08: Administer Azure Virtual Machines
 
-Introduction to Azure virtual machines - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/  <br>
-Choose the right disk storage for your virtual machine workload - https://learn.microsoft.com/en-us/training/modules/choose-the-right-disk-storage-for-vm-workload/  <br>
-Create a Linux virtual machine in Azure - https://learn.microsoft.com/en-us/training/paths/azure-linux/  <br>
-Create a Windows virtual machine in Azure - https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/  <br>
-Connect to virtual machines through the Azure portal by using Azure Bastion - https://learn.microsoft.com/en-us/training/modules/connect-vm-with-azure-bastion/  <br>
-Build a scalable application with virtual machine scale sets - https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets/  <br>
-Implement scale and high availability with Windows Server VM - https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/  <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQ0dVV1Y1VzFZTzlMMUNXQlRaSUJWQTQxNC4u&sharetoken=Z37GWdASd35HecCvHOwD&wdLOR=cAC8A4812-2784-4689-9FB0-FE089C91A0FB  <br>
 
 ## Module 09: Administer PaaS Compute Options
 
-Scale an App Service web app to efficiently meet demand with App Service scale up and scale out - https://learn.microsoft.com/en-us/training/modules/app-service-scale-up-scale-out/  <br>
-Host a web application with Azure App Service - https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/  <br>
-Stage a web app deployment for testing and rollback by using App Service deployment slots - https://learn.microsoft.com/en-us/training/modules/stage-deploy-app-service-deployment-slots/  <br>
-Dynamically meet changing web app performance requirements with autoscale rules - https://learn.microsoft.com/en-us/training/modules/app-service-autoscale-rules/  <br>
-Introduction to Docker containers - https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/  <br>
-Build a containerized web application with Docker - https://learn.microsoft.com/en-us/training/modules/intro-to-containers/  <br>
-Run Docker containers with Azure Container Instances - https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/  <br>
-Implement Azure Container Apps - https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/  <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQkpEQ0VFUlZRUDM3Q1BCMDZVTEI5WjVORC4u&sharetoken=tbjUH7154spTWZnYjmrj  <br>
 
 ## Module 10: Administer Data Protection
 
-Introduction to Azure Backup - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/  <br>
-Protect your virtual machines by using Azure Backup - https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/  <br>
-Implement hybrid backup and recovery with Windows Server IaaS - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-backup-recovery-windows-server-iaas/  <br>
-Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/  <br>
 Knowledge check _ https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNFEwTzhFUTdTUTZBWFdDWUVMRkxDWTVBTC4u&sharetoken=mYk00FZIuUtj2z7QzeEU&wdLOR=cD67ACE90-C2B7-4D71-9B7E-1F000829BE34  <br>
 
 ## Module 11: Administer Monitoring
 
-Analyze your Azure infrastructure by using Azure Monitor logs - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/ <br>
-Monitor the performance of virtual machines using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
-Monitor, diagnose, and troubleshoot your Azure storage - https://learn.microsoft.com/en-us/training/modules/monitor-diagnose-and-troubleshoot-azure-storage/ <br>
-Improve incident response with alerting on Azure - https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/ <br>
-Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
-Manage alerts and incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>
-Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
-Write your first query with Kusto Query Language - https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UOFlRUEszMlRFTkpFT0E3Q1oxRjlQVk81MS4u&sharetoken=8yKD9q6v9z0tcrXy3tS5&wdLOR=c3820A896-48CD-46AD-BE50-F09068C1280F <br>
 
 
