@@ -21,9 +21,7 @@ Knowledge Check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 05:  Administer Intersite Connectivity
 
-Distribute your services across Azure virtual networks and integrate them by using virtual network peering - https://learn.microsoft.com/en-us/training/modules/integrate-vnets-with-vnet-peering/ <br>
-Manage and control traffic flow in your Azure deployment with routes - https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/ <br>
-Introduction to Azure Private Link - https://learn.microsoft.com/en-us/training/modules/introduction-azure-private-link/ <br>
+
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UQVNHMlgwTVlJRUFaTThRMTlBWFI0OEdVSS4u&sharetoken=qJgpgzD82bgxMb7uu7Bf&wdLOR=cA90F021B-4D8D-4F08-B45D-4C2FF7466064 <br>
 
 ## Module 06: Administer Network Traffic
