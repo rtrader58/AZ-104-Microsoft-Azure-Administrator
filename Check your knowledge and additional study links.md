@@ -5,11 +5,6 @@
 ### The instructor will show you how to view the correct answer to the Knowledge check questions
 
 ## Module 01: Administer Identity
-
-Allow users to reset their password with self-service password reset - https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/ <br>
-Implement and manage hybrid identity - https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/ <br>
-Create Azure users and groups in Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/ <br>
-Manage users and groups - https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UNlQyT1BLOTZYNjNBTk5NREk5NzFPOFpFWS4u&sharetoken=ms6pe4tvOByStLZxuG5B&wdLOR=cF86857FF-7E68-42CA-B255-DA42AE56590A <br>
 
 ## Module 02:  Administer Governance and Compliance
