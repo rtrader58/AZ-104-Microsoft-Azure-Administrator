@@ -13,14 +13,6 @@ Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr
 
 ## Module 03:  Administer Azure Resources
 
-Manage services with the Azure portal - https://learn.microsoft.com/en-us/training/modules/tour-azure-portal/ <br>
-Introduction to PowerShell - https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/ <br>
-Control Azure services with the CLI - https://learn.microsoft.com/en-us/training/modules/control-azure-services-with-cli/ <br>
-Control and organize Azure resources with Azure Resource Manager - https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/ <br>
-Create Azure resources using Azure Resource Manager templates - https://learn.microsoft.com/en-us/training/modules/create-azure-resources-using-azure-resource-manager-templates/ <br>
-Deploy Azure infrastructure by using JSON ARM templates - https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/ <br>
-Introduction to infrastructure as code using Bicep - https://learn.microsoft.com/en-us/training/modules/introduction-to-infrastructure-as-code-using-bicep/ <br>
-Build your first Bicep template - https://learn.microsoft.com/en-us/training/modules/build-first-bicep-template/ <br>
 Knowledge check - https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR5NEFZBpuAZBgxPOGXi_gX5UMkFRVjJFOFJPNjZQUEpROVY5M1VEWElRTi4u&sharetoken=yCwXM9qIBSS1d37SnduS&wdLOR=c1C689F9D-2CC5-45D1-93D5-D3C9A240C860 <br>
 
 ## Module 04: Administer Virtual Networking
