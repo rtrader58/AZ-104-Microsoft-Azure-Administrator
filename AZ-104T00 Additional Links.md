@@ -32,6 +32,10 @@ Learn about groups and access rights in Microsoft Entra ID – https://docs.micr
 Quickstart: Create a group with members and view all groups and members- https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-view-azure-portal<br>
 Assign or remove licenses in the Azure portal -  https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups<br>
 Configure user and group accounts - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Demos/01%20-%20Administer%20Identity.html#configure-user-and-group-accounts<br>
+Allow users to reset their password with self-service password reset - https://learn.microsoft.com/en-us/training/modules/allow-users-reset-their-password/ <br>
+Implement and manage hybrid identity - https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/ <br>
+Create Azure users and groups in Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/create-users-and-groups-in-azure-active-directory/ <br>
+Manage users and groups - https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/ <br>
 
 ### Module 2: Administer Governance and Compliance
 
