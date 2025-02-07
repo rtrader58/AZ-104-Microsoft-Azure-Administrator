@@ -111,7 +111,12 @@ Application Security Groups - https://docs.microsoft.com/azure/virtual-network/a
 What is Azure DNS? - https://docs.microsoft.com/azure/dns/dns-overview<br>
 DNS Zones - https://docs.microsoft.com/azure/dns/dns-zones-records#dns-zones<br> 
 QuickStart: Create an Azure private DNS zone using the Azure portal - https://docs.microsoft.com/azure/dns/private-dns-getstarted-portal<br>
-
+Introduction to Azure Virtual Networks - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/ <br>
+Design an IP addressing schema for your Azure deployment - https://learn.microsoft.com/en-us/training/modules/design-ip-addressing-for-azure/ <br>
+Implement Windows Server IaaS VM IP addressing and routing - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/ <br>
+Secure and isolate access to Azure resources by using network security groups and service endpoints - https://learn.microsoft.com/en-us/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/ <br>
+Host your domain on Azure DNS - https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/ <br>
+Implement DNS for Windows Server IaaS VMs - https://learn.microsoft.com/en-us/training/modules/implement-dns-for-windows-server-iaas-virtual-machines/ <br>
 
 ### Module 5: Administer Intersite Connectivity
 
