@@ -182,8 +182,21 @@ Require secure transfer in Azure Storage - https://docs.microsoft.com/azure/stor
 Overview of share snapshots for Azure Files - https://docs.microsoft.com/azure/storage/files/storage-snapshots-files<br>
 Get started with Storage Explorer - https://docs.microsoft.com/azure/vs-azure-tools-storage-manage-with-storage-explorer<br>
 Upload, download, and manage data with Azure Storage Explorer - https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/<br>
+Create an Azure Storage account - https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/ <br>
+Provide disaster recovery by replicating storage data across regions and failing over to a secondary location - https://learn.microsoft.com/en-us/training/modules/provide-disaster-recovery-replicate-storage-data/ <br>
+Optimize storage performance and costs using Azure Blob storage tiers = https://learn.microsoft.com/en-us/training/modules/optimize-archive-costs-blob-storage/ <br>
+Gather metrics from your Azure Blob Storage containers - https://learn.microsoft.com/en-us/training/modules/gather-metrics-blob-storage/ <br>
+Secure your Azure Storage account - https://learn.microsoft.com/en-us/training/modules/secure-azure-storage-account/ <br>
+Control access to Azure Storage with shared access signatures - https://learn.microsoft.com/en-us/training/modules/control-access-to-azure-storage-with-sas/ <br>
+Implement storage security - https://learn.microsoft.com/en-us/training/modules/storage-security/ <br>
+Extend your on-premises file share capacity using Azure File Sync - https://learn.microsoft.com/en-us/training/modules/extend-share-capacity-with-azure-file-sync/ <br>
+Implement a hybrid file server infrastructure - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/ <br>
+Upload, download, and manage data with Azure Storage Explorer - https://learn.microsoft.com/en-us/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/ <br>
+Export large amounts of data from Azure by using Azure Import/Export - https://learn.microsoft.com/en-us/training/modules/export-data-with-azure-import-export/ <br>
+Copy and move blobs from one container or storage account to another from the command line and in code - https://learn.microsoft.com/en-us/training/paths/copy-blobs-from-command-line-and-code/ <br>
 
 ## Learning Path 4: Deploy and manage Azure compute resources
+
 ### Module 08: Administer Azure Virtual Machines
 
 Data residency - https://azure.microsoft.com/explore/global-infrastructure/data-residency/#select-geography<br>
@@ -191,6 +204,13 @@ Azure VM sizes with no temporary disks - https://learn.microsoft.com/azure/virtu
 Availability set overview - https://learn.microsoft.com/azure/virtual-machines/availability-set-overview<br>
 What are virtual machine scale sets - https://learn.microsoft.com/azure/virtual-machine-scale-sets/overview<br>
 Autoscale - https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview<br>
+Introduction to Azure virtual machines - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/  <br>
+Choose the right disk storage for your virtual machine workload - https://learn.microsoft.com/en-us/training/modules/choose-the-right-disk-storage-for-vm-workload/  <br>
+Create a Linux virtual machine in Azure - https://learn.microsoft.com/en-us/training/paths/azure-linux/  <br>
+Create a Windows virtual machine in Azure - https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/  <br>
+Connect to virtual machines through the Azure portal by using Azure Bastion - https://learn.microsoft.com/en-us/training/modules/connect-vm-with-azure-bastion/  <br>
+Build a scalable application with virtual machine scale sets - https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets/  <br>
+Implement scale and high availability with Windows Server VM - https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/  <br>
 
 ### Module 09: Administer PaaS Compute Options
 
@@ -211,8 +231,17 @@ Quickstart: Deploy a container instance in Azure using the Azure portal - https:
 Deploy microservices with Azure Container Apps - https://learn.microsoft.com/azure/architecture/example-scenario/serverless/microservices-with-container-apps<br>
 Azure Container Apps documentation - https://learn.microsoft.com/azure/container-apps/<br>
 Comparing Container Apps with other Azure container options - https://learn.microsoft.com/azure/container-apps/compare-options<br>
+Scale an App Service web app to efficiently meet demand with App Service scale up and scale out - https://learn.microsoft.com/en-us/training/modules/app-service-scale-up-scale-out/  <br>
+Host a web application with Azure App Service - https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/  <br>
+Stage a web app deployment for testing and rollback by using App Service deployment slots - https://learn.microsoft.com/en-us/training/modules/stage-deploy-app-service-deployment-slots/  <br>
+Dynamically meet changing web app performance requirements with autoscale rules - https://learn.microsoft.com/en-us/training/modules/app-service-autoscale-rules/  <br>
+Introduction to Docker containers - https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/  <br>
+Build a containerized web application with Docker - https://learn.microsoft.com/en-us/training/modules/intro-to-containers/  <br>
+Run Docker containers with Azure Container Instances - https://learn.microsoft.com/en-us/training/modules/run-docker-with-azure-container-instances/  <br>
+Implement Azure Container Apps - https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/  <br>
 
 ## Learning Path 5: Monitor and back up Azure resources
+
 ### Module 10: Administer Data Protection
 
 Why use Azure Backup? - https://docs.microsoft.com/azure/backup/backup-introduction-to-azure-backup#why-use-azure-backup <br>
@@ -224,6 +253,10 @@ Plan your VM backup infrastructure in Azure - https://docs.microsoft.com/azure/b
 Tutorial: Back up and restore files for Windows virtual machines in Azure - https://docs.microsoft.com/azure/virtual-machines/windows/tutorial-backup-vms<br>
 Soft delete for virtual machines in Azure Backup - https://azure.microsoft.com/updates/soft-delete-virtual-machine-backup/<br>
 Azure Site Recovery documentation - https://docs.microsoft.com/azure/site-recovery/<br>
+Introduction to Azure Backup - https://learn.microsoft.com/en-us/training/modules/intro-to-azure-backup/  <br>
+Protect your virtual machines by using Azure Backup - https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/  <br>
+Implement hybrid backup and recovery with Windows Server IaaS - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-backup-recovery-windows-server-iaas/  <br>
+Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/  <br>
 
 ### Module 11: Administer Monitoring
 
@@ -245,7 +278,14 @@ Overview of log queries in Azure Monitor - https://docs.microsoft.com/azure/azur
 Get started with log queries in Azure Monitor - https://docs.microsoft.com/azure/azure-monitor/log-query/get-started-queries<br>
 Azure Monitor log queries - https://docs.microsoft.com/azure/azure-monitor/log-query/query-language<br>
 Azure Monitor log query examples - https://docs.microsoft.com/azure/azure-monitor/log-query/examples<br>
-
+Analyze your Azure infrastructure by using Azure Monitor logs - https://learn.microsoft.com/en-us/training/modules/analyze-infrastructure-with-azure-monitor-logs/ <br>
+Monitor the performance of virtual machines using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
+Monitor, diagnose, and troubleshoot your Azure storage - https://learn.microsoft.com/en-us/training/modules/monitor-diagnose-and-troubleshoot-azure-storage/ <br>
+Improve incident response with alerting on Azure - https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/ <br>
+Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
+Manage alerts and incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>
+Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
+Write your first query with Kusto Query Language - https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ <br>
 
 
 
