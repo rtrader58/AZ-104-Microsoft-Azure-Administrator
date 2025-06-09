@@ -4,7 +4,7 @@
 
 ## Learning Path 1:  Manage identities and governance in Azure - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/
 
-### Module 01:  Adminster Identity
+### Module 01:  Administer Identity
 Lesson 1: Configure Microsoft Entra ID - https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/<br>
 Lesson 2: Configure user and group accounts - https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/<br>
 
