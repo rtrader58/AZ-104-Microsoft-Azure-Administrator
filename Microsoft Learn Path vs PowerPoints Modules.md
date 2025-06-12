@@ -93,7 +93,7 @@ Lesson 2: Configure Virtual Machine Backups - https://learn.microsoft.com/en-us/
 ### Lab
 Lab 10 (Lab 13)– Implement Data Protection​ ~ Time 50 Min<br>
 
-### Module 11:  
+### Module 11:  Administer Monitoring
 Lesson 1: Configure Azure Monitor - https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/<br>
 Lesson 2: Configure Azure Alerts - https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/<br>
 Lesson 3: Configure Log analytics - https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/<br>
