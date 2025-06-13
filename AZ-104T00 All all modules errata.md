@@ -114,12 +114,15 @@ Step 4: Add not Save <br>
 
 ### Lab 10 (09a) – Implement Web Apps​ ~ Time 30 Min
 
-No Errata <br>
+If you get an error when creating the App Service Plan - cancel the deployment - start a new deployment (do not use the existing one) choose a different region <br>
 
 ### Lab 11 (09b) – Implement Azure Container Instances​ ~ Time 15 Min
 
 No Errata <br>
 
+### Lab 12 (09c) – Implement Azure Container Apps ​~ Time 15 Min
+
+No Errata <br>
 ### Lab 12 (09c) – Implement Azure Container Apps ​~ Time 15 Min
 
 No Errata <br>
