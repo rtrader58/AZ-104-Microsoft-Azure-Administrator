@@ -114,7 +114,7 @@ Step 4: Add not Save <br>
 
 ### Lab 10 (09a) – Implement Web Apps​ ~ Time 30 Min
 
-No Errata <br>
+If you get an error when creating the App Service Plan - cancel the deployment - start a new deployment (do not use the existing one) choose a different region <br>
 
 ### Lab 11 (09b) – Implement Azure Container Instances​ ~ Time 15 Min
 
@@ -123,18 +123,25 @@ No Errata <br>
 ### Lab 12 (09c) – Implement Azure Container Apps ​~ Time 15 Min
 
 No Errata <br>
+### Lab 12 (09c) – Implement Azure Container Apps ​~ Time 15 Min
+
+No Errata <br>
 
 ## Learning Path 5: Monitor and back up Azure resources (~95 Min)
 
-### Lab 13– Backup virtual machines​ ~ Time 50 Min
+### Lab 13 (10) – Backup virtual machines​ ~ Time 50 Min
 
 Task 3: Configure Azure virtual machine-level backup <br>
-Step 8: After the deployment is complet click Go to resource <br>
+Step 8: After the deployment is complet3 click Go to resource <br>
 
 Task 4: Monitor Azure Backup <br>
 Step 6: Diagnostic setting is located under Monitoring <br>
 
-### Lab 1 14 – Implement monitoring​ ~ Time 45 Min
+Task 5: Enable virtual machine replication <br>
+Step 6: Change the region to West US <br>
+Step 7: Use the dropdown to set Churn for VM to High Chum<br>
+
+### Lab 14 (11) – Implement monitoring​ ~ Time 45 Min
 
 Task 3: Configure action group notifications <br>
 Step 1: Select Use action groups <br>

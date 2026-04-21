@@ -1,18 +1,23 @@
 # AZ-104T00 Day Four Errata - Learning Path 5:
 # Configure and manage virtual networks for Azure administrators
+
 ### Labs 10 (13) and Lab 11 (14)
 ### (Total lab time ~95 Minutes)
-Updated Aug 2024 <br>
+Updated Jun 2025 <br>
 
-### Lab 13– Backup virtual machines​ ~ Time 50 Min
+### Lab 10 (13) – Implement Data Protection​ ~ Time 50 Min
 
 Task 3: Configure Azure virtual machine-level backup <br>
-Step 8: After the deployment is complet click Go to resource <br>
+Step 8: After the deployment is complete click Go to resource <br>
 
 Task 4: Monitor Azure Backup <br>
 Step 6: Diagnostic setting is located under Monitoring <br>
 
-### Lab 14 – Implement monitoring​ ~ Time 45 Min
+Task 5: Enable virtual machine replication <br>
+Step 6: Change the region to West US <br>
+Step 7: Use the dropdown to set Churn for VM to High Chum<br>
+
+### Lab 11 (14) – Implement monitoring​ ~ Time 45 Min
 
 Task 3: Configure action group notifications <br>
 Step 1: Select Use action groups <br>
